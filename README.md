@@ -5,5 +5,3 @@ I’m currently studying Software Engineering and also courses at Alura
 - I tend to like more data coming from Financial Services, but any project makes me curious!!
 - 📫 How to reach me: lucasfsenderski@gmail.com
 
-
-![Snake animation](https://github.com/lucassenderski/blob/output/github-contribution-grid-snake.svg)
