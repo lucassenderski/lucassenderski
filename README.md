@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 # Hi My name is Lucas Senderski 👋
 I’m currently studying Software Engineering and also courses at Alura 
 
@@ -7,3 +6,4 @@ I’m currently studying Software Engineering and also courses at Alura
 - 📫 How to reach me: lucasfsenderski@gmail.com
 
 
+![Snake animation](https://github.com/lucassenderski/blob/output/github-contribution-grid-snake.svg)
