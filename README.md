@@ -1,4 +1,4 @@
-# Hi My name is Lucas Senderski 👋
+ Hi My name is Lucas Senderski 👋
 I’m currently studying Software Engineering and also courses at Alura 
 
 - 🌱 I’m currently learning Data Science, JavaScript, and Python.
