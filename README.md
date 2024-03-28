@@ -31,6 +31,5 @@ Sou desenvolvedor Back-End e Futuro Engenheiro de software.
 
 <div align = "left">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassenderski&show_icons=true&theme=vision-friendly-dark&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=lucassenderski&show_icons=true&show_icons=true&theme=vision-friendly-dark&count_private=true" />
 </div>
 
