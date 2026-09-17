@@ -4,9 +4,9 @@
 
 
  
-Sou desenvolvedor Back-End e Futuro Engenheiro de software.
+Sou desenvolvedor Back-End e Engenheiro de software em Desenvolvimento.
 
-- Meu moto "Foco no aprendizado!!"
+
 
 
 ---
