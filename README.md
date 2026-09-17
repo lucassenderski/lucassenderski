@@ -28,7 +28,3 @@ Sou desenvolvedor Back-End e Engenheiro de software em Desenvolvimento.
     </a>
 </div>
 
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassenderski&show_icons=true&theme=vision-friendly-dark&count_private=true"/>
-</div>
-
